@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Biblioteca criada durante o curso de JS com TDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabloliv/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Fabrício Oliveira <fabriciololiveira@gmail.com> (http://fabriciolo.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabloliv/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/fabloliv/js-tdd-course#readme"
+}
